@@ -1,6 +1,6 @@
 {
   "name": "jsonresume-theme-lacour",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A JSON Resume theme built with bootstrap, in french",
   "main": "index.js",
   "scripts": {
