@@ -130,9 +130,9 @@
         {{/workBool}}
 
         {{#projectsBool}}
-        <!-- PROJECTS EXPERIENCE -->
+        <!-- PERSONAL PROJECTS -->
         <div class="box">
-          <h2><i class="fa fa-code ico"></i> Projects experience</h2>
+          <h2><i class="fa fa-code ico"></i> Personal Projects</h2>
           {{#projects}}
           <div class="job clearfix">
             <div class="row">
