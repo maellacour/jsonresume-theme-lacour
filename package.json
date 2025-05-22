@@ -1,19 +1,25 @@
 {
   "name": "jsonresume-theme-lacour",
-  "version": "0.2.0",
+  "version": "1.0.0",
   "description": "A JSON Resume theme built with bootstrap, in french",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "M. Adam Kendall",
+  "author": {
+    "name": "Mael Lacour",
+    "url": "https://github.com/maellacour"
+  },
   "contributors": [
-    {
-      "name": "Eyap53",
-      "url": "https://github.com/Eyap53"
-    }
+    "M. Adam Kendall"
   ],
   "license": "MIT",
+  "files": [
+    "index.js",
+    "resume.template",
+    "print.css",
+    "style.css"
+  ],
   "dependencies": {
     "gravatar": "^1.0.6",
     "lodash": "^4.17.13",
@@ -21,7 +27,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/Eyap53/jsonresume-theme-lacour.git"
+    "url": "https://github.com/maellacour/jsonresume-theme-lacour.git"
   },
   "keywords": [
     "json",
@@ -31,7 +37,7 @@
     "fr"
   ],
   "bugs": {
-    "url": "https://github.com/Eyap53/jsonresume-theme-lacour/issues"
+    "url": "https://github.com/maellacour/jsonresume-theme-lacour/issues"
   },
-  "homepage": "https://github.com/Eyap53/jsonresume-theme-lacour"
+  "homepage": "https://github.com/maellacour/jsonresume-theme-lacour"
 }
