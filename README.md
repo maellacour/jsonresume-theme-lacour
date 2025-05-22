@@ -37,7 +37,7 @@ The theme is primarily in English. For a French version, please refer to the `fr
 To convert the generated `out/resume.html` to a PDF file using `wkhtmltopdf`, run the following command:
 
 ```bash
-wkhtmltopdf --enable-local-file-access -B 0 -L 0 -R 0 -T 0 -d 300 --viewport-size 1980 out/resume.html out/resume.pdf
+wkhtmltopdf --enable-local-file-access -B 0 -L 0 -R 0 -T 0 -d 300 --viewport-size 1980 resume.html resume.pdf
 ```
 
 ## Features & Customization
